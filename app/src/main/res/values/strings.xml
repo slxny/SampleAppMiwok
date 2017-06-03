@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample App Miwok</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="MediaPlayer">I N T E R S T E L L A R</string>
+</resources>
